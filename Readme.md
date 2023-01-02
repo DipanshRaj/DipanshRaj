@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dipansh Raj</h1>
 <h3 align="center">A inquisitive Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshraj&label=Profile%20views&color=0e75b6&style=flat" alt="dipanshraj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipanshraj" alt="dipanshraj" /></a> </p>
-
 <img align="right" alt="analyst" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" >
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshraj&label=Profile%20views&color=0e75b6&style=flat" alt="dipanshraj" /> </p>
 
 - 🔭 I’m currently working on **machine learning projects**
 
